@@ -1,4 +1,4 @@
 # hello-world
 Hey world 
 
-Im a person, here is some obligated text
+Im Henry and attempting to work out what Github is and does. Wish me luck!
